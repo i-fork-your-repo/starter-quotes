@@ -2,6 +2,12 @@
 Starter Webapp - Quotes
 #######################
 
+coding style: allman
+team members: Matt Nahirny, George Deng
+
+
+
+
 This is the starter webapp for Tutorial ci-normal01
 
 It is purposefully broken.
