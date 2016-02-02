@@ -7,6 +7,8 @@ team members: Matt Nahirny, George Deng
 
 
 gdeng made this change
+-this is an edit by gdeng
+
 
 This is the starter webapp for Tutorial ci-normal01
 
@@ -61,3 +63,8 @@ Technology at the British Columbia Institute of Technology,
 and Project Lead for CodeIgniter.
 
 CodeIgniter is a project of B.C.I.T.
+
+***************
+Additional Info
+***************
+stuff
