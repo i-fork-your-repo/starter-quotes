@@ -35,5 +35,29 @@ class First extends Application {
 		$this->data['authors'] = $authors;
 		$this->render();
 	}
+        
+        function zzz()
+	{
+		$this->data['pagebody'] = 'justone';	// this is the view we want shown
+		// build the list of authors, to pass on to our view
+		$source = $this->quotes->all();
+		$authors = array();
+		$record = $this->quotes->get(1);
+                $this->data = array_merge($this->data, $record);
+		$this->data['authors'] = $authors;
+		$this->render();
+	}
+        
+        function gimme($id)
+	{
+		$this->data['pagebody'] = 'justone';	// this is the view we want shown
+		// build the list of authors, to pass on to our view
+		$source = $this->quotes->all();
+		$authors = array();
+		$record = $this->quotes->get(3);
+                $this->data = array_merge($this->data, $record);
+		$this->data['authors'] = $authors;
+		$this->render();
+	}
 
 }
