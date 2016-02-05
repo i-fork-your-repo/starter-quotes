@@ -41,8 +41,10 @@
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
 
-$route['sleep'] = 'first/zzz';
-$route['show/:num'] = 'first/gimme/3';
+$route['sleep'] = 'first/zzz';  // q3
+$route['show/:num'] = 'first/gimme/3';  // q5
+$route['wise/bingo'] = 'bingo'; //q7
+
 
 
 
