@@ -1,0 +1,110 @@
+Changelog 1.0
+
+Hai there.
+
+Commits on Feb 5, 2016
+@i-entity
+Changelog created
+i-entity committed 7 minutes ago
+0301dcd  
+@i-entity
+Merge pull request #11 from i-entity/feature-branch-7 …
+i-entity committed 12 minutes ago
+83759b6  
+@i-entity
+Fix route
+i-entity committed 13 minutes ago
+2246172  
+Commits on Feb 4, 2016
+@i-entity
+Merge pull request #9 from MattNahirny/feature-url8 …
+i-entity committed 19 hours ago
+f7c14b1  
+
+url8 fix
+Matthew Nahirny committed 19 hours ago
+161c0f2  
+@i-entity
+Merge pull request #8 from MattNahirny/feature-url6 …
+i-entity committed 20 hours ago
+491d929  
+
+url6 fix
+Matthew Nahirny committed 20 hours ago
+a402b67  
+@i-entity
+Merge pull request #7 from MattNahirny/feature-url4 …
+i-entity committed 20 hours ago
+4bfe46e  
+
+url4 fix
+Matthew Nahirny committed 20 hours ago
+0d80c43  
+@i-entity
+Merge pull request #6 from MattNahirny/feature-url2 …
+i-entity committed 20 hours ago
+6bfad98  
+
+url2 fix v2
+Matthew Nahirny committed 20 hours ago
+9eca38c  
+@i-entity
+Merge pull request #5 from MattNahirny/feature-url2 …
+i-entity committed 20 hours ago
+9ed9d4b  
+
+url2 fix
+Matthew Nahirny committed 20 hours ago
+b3c77d2  
+@i-entity
+Merge pull request #4 from i-entity/feature-branch …
+i-entity committed a day ago
+2ba5702  
+Commits on Feb 3, 2016
+@i-entity
+#7 Bingo::index() fixed
+i-entity committed 2 days ago
+4e9aa97  
+@i-entity
+#5 show fixed
+i-entity committed 2 days ago
+73b5020  
+@i-entity
+#3 sleep fixed
+i-entity committed 2 days ago
+7481008  
+@i-entity
+#1 first fixed
+i-entity committed 2 days ago
+0b12788  
+Commits on Feb 2, 2016
+@i-entity
+Merge pull request #3 from i-entity/feature-branch …
+i-entity committed 3 days ago
+bc583dc  
+@i-entity
+Merge branch 'develop' of https://github.com/i-fork-your-repo/starter… …
+i-entity committed 3 days ago
+6dda83b  
+@i-entity
+gdeng edit readme-2
+i-entity committed 3 days ago
+07a0987  
+@i-entity
+Merge pull request #2 from i-entity/feature-branch …
+i-entity committed 3 days ago
+65cf819  
+@i-entity
+Merge pull request #1 from MattNahirny/develop …
+i-entity committed 3 days ago
+f2aa06b  
+
+Changed readme
+Matthew Nahirny committed 3 days ago
+bb111b2  
+@i-entity
+gdeng edit readme
+i-entity committed 3 days ago
+464725f  
+@i-entity
+Update readme.rst
